@@ -1,0 +1,25 @@
+/* .wine2 {
+  background: url(../../../../assets/img/PORTADA-VINOS-MOBILE_2.jpg) no-repeat center center fixed;
+
+} */
+.buttons {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.btn {
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.btn--angular {
+  background-color: #e42427;
+}
